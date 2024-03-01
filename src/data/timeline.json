@@ -1,0 +1,44 @@
+[
+	{
+		"date": "08-25-2023",
+		"title": "TA @ ASU",
+		"description": "Served as Graduate Teaching Assistant and Grader for Advanced Database Management Systems Course for 230+ students.",
+		"icon": "feather:briefcase",
+		"link": {
+			"text": "Visit Ira A. Fulton Schools of Engineering",
+			"url": "https://engineering.asu.edu/"
+		}
+	},
+	{
+		"date": "07-28-2022",
+		"title": "Graduated University!",
+		"description": "Successfully completed my Bachelor's Degree",
+		"icon": "feather:award"
+	},
+	{
+		"date": "08-11-2022",
+		"title": "Started University for Masters",
+		"description": "Began studying my Masters Degree in Information Technology at Arizona State University",
+		"icon": "feather:book",
+		"link": {
+			"text": "Visit Arizona State University",
+			"url": "https://www.asu.edu/"
+		}
+	},
+	{
+		"date": "01-17-2022",
+		"title": "First Developer Job!",
+		"description": "Began an internship as a full stack developer working at Zemoso Technologies, Hyderabad",
+		"icon": "feather:briefcase",
+		"link": {
+			"text": "Visit Zemoso Technologies",
+			"url": "https://www.zemosolabs.com/"
+		}
+	},
+	{
+		"date": "07-30-2018",
+		"title": "Started University",
+		"description": "I commenced my undergraduate studies in Computer Science and Engineering at Jawaharlal Nehru Technological University, Hyderabad.",
+		"icon": "feather:book"
+	}
+]
