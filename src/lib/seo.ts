@@ -14,12 +14,12 @@ export function useSeoProps(
 	return {
 		title,
 		description,
-		canonical: `https://snavyaakshitha.vercel.app/${router.asPath}`,
+		canonical: `https://navyaakshitha.vercel.app/${router.asPath}`,
 		openGraph: {
 			title,
 			description,
 			site_name: 'nas-code-chronicles',
-			url: `https://snavyaakshitha.vercel.app/${router.asPath}`,
+			url: `https://navyaakshitha.vercel.app/${router.asPath}`,
 			type: 'website',
 			images: [
 				{
