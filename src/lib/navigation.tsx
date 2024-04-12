@@ -46,7 +46,7 @@ const staticMenuItems: Array<Array<NavigationItem>> = [
 			type: NavigationItemType.LINK,
 			icon: 'feather:link',
 			text: 'Resume',
-			href: 'https://drive.google.com/file/d/137hwm8B7XLbB0tVhKZEg9B2EkZKHUsdu/view?usp=sharing',
+			href: 'https://drive.google.com/file/d/1TZPDfjyhd7uWxp428WrnvAe5JuDK0X79/view?usp=sharing',
 			external: true,
 		},
 		{
