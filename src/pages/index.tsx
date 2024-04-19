@@ -18,16 +18,9 @@ const Event = dynamic<EventProps>(
 const ACTIONS: Array<NavigationItem> = [
 	{
 		type: NavigationItemType.LINK,
-		external: true,
-		href: 'https://drive.google.com/file/d/1TZPDfjyhd7uWxp428WrnvAe5JuDK0X79/view?usp=sharing',
-		icon: <Icon className="mr-3" icon="feather:link" />,
-		text: 'Resume',
-	},
-	{
-		type: NavigationItemType.LINK,
-		href: '/projects',
+		href: '/timeline',
 		icon: <Icon className="mr-3" icon="feather:copy" />,
-		text: 'Projects',
+		text: 'Timeline',
 	},
 	{
 		type: NavigationItemType.LINK,
@@ -39,10 +32,18 @@ const ACTIONS: Array<NavigationItem> = [
 	{
 		type: NavigationItemType.LINK,
 		external: true,
+		href: 'https://github.com/snavyaakshitha',
+		icon: <Icon className="mr-3" icon="feather:link" />,
+		text: 'Github',
+	},
+	{
+		type: NavigationItemType.LINK,
+		external: true,
 		href: 'https://mail.google.com/mail/?view=cm&fs=1&to=snavyaakshitha@gmail.com&su=SUBJECT&body=BODY&bcc=nsangish@asu.edu',
 		icon: <Icon className="mr-3" icon="feather:mail" />,
 		text: 'Gmail',
 	},
+
 ];
 
 export default function HomePage(): JSX.Element {

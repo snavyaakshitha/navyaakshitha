@@ -1,7 +1,23 @@
 [
 	{
+		"date": "05-06-2024",
+		"title": "Graduated University!",
+		"description": "Successfully completed my Master's Degree from ASU",
+		"icon": "feather:award"
+	},
+	{
+		"date": "02-25-2024",
+		"title": "AI Software Engineer Intern @RadicalAI",
+		"description": "Served as Graduate Teaching Assistant and Grader for Advanced Database Management Systems Course for 230+ students.",
+		"icon": "feather:briefcase",
+		"link": {
+			"text": "Visit Ira A. Fulton Schools of Engineering",
+			"url": "https://engineering.asu.edu/"
+		}
+	},
+	{
 		"date": "08-25-2023",
-		"title": "TA @ ASU",
+		"title": "TA @ASU",
 		"description": "Served as Graduate Teaching Assistant and Grader for Advanced Database Management Systems Course for 230+ students.",
 		"icon": "feather:briefcase",
 		"link": {
