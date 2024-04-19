@@ -33,7 +33,7 @@ const ACTIONS: Array<NavigationItem> = [
 		type: NavigationItemType.LINK,
 		external: true,
 		href: 'https://github.com/snavyaakshitha',
-		icon: <Icon className="mr-3" icon="feather:link" />,
+		icon: <Icon className="mr-3" icon="feather:github" />,
 		text: 'Github',
 	},
 	{
