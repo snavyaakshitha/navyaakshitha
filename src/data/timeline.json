@@ -6,8 +6,8 @@
 		"icon": "feather:award"
 	},
 	{
-		"date": "02-25-2024",
-		"title": "AI Software Engineer Intern",
+		"date": "12-25-2023",
+		"title": "AI Software Engineer",
 		"description": "Joined Radical AI company as AI Software Engineer Intern and collaborated in the development of ReX, an AI Tech Tutor application.",
 		"icon": "feather:briefcase",
 		"link": {
@@ -16,9 +16,19 @@
 		}
 	},
 	{
-		"date": "08-25-2023",
+		"date": "08-11-2023",
 		"title": "TA @ASU",
 		"description": "Served as Graduate Teaching Assistant and Grader for Advanced Database Management Systems Course for 230+ students.",
+		"icon": "feather:briefcase",
+		"link": {
+			"text": "Visit Ira A. Fulton Schools of Engineering",
+			"url": "https://engineering.asu.edu/"
+		}
+	},
+	{
+		"date": "10-09-2023",
+		"title": "Data Engineer @ASU Enterprise Partners",
+		"description": "Joined as Data Engineer at ASU Enterprise Partners and streamlined data operations by automating manual processes and enhance integrity.",
 		"icon": "feather:briefcase",
 		"link": {
 			"text": "Visit Ira A. Fulton Schools of Engineering",
@@ -42,9 +52,9 @@
 		}
 	},
 	{
-		"date": "01-17-2022",
+		"date": "01-17-2021",
 		"title": "First Developer Job!",
-		"description": "Began an internship as a software engineer working at Zemoso Technologies, Hyderabad",
+		"description": "Began my journey as a software engineer working at Zemoso Technologies, Hyderabad",
 		"icon": "feather:briefcase",
 		"link": {
 			"text": "Visit Zemoso Technologies",
