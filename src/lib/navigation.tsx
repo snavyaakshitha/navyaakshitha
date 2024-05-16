@@ -42,20 +42,20 @@ const staticMenuItems: Array<Array<NavigationItem>> = [
 		},
 	],
 	[
-		{
-			type: NavigationItemType.LINK,
-			icon: 'feather:link',
-			text: 'Resume for SDE/SWE Roles',
-			href: 'https://drive.google.com/file/d/1wXZhB1lc_zmDK9KudJbDEIO-ZxZy8DzG/view?usp=sharing',
-			external: true,
-		},
-		{
-			type: NavigationItemType.LINK,
-			icon: 'feather:link',
-			text: 'Resume for Data Engineer Roles',
-			href: 'https://drive.google.com/file/d/1Y3vRc-tneTWX_GUpcIxJnxJF0_iW-D_7/view?usp=sharing',
-			external: true,
-		},
+		// {
+		// 	type: NavigationItemType.LINK,
+		// 	icon: 'feather:link',
+		// 	text: 'Resume for SDE/SWE Roles',
+		// 	href: 'https://drive.google.com/file/d/1wXZhB1lc_zmDK9KudJbDEIO-ZxZy8DzG/view?usp=sharing',
+		// 	external: true,
+		// },
+		// {
+		// 	type: NavigationItemType.LINK,
+		// 	icon: 'feather:link',
+		// 	text: 'Resume for Data Engineer Roles',
+		// 	href: 'https://drive.google.com/file/d/1Y3vRc-tneTWX_GUpcIxJnxJF0_iW-D_7/view?usp=sharing',
+		// 	external: true,
+		// },
 		{
 			type: NavigationItemType.LINK,
 			icon: 'feather:linkedin',
