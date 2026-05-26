@@ -1,8 +1,38 @@
 [
 	{
+		"date": "10-07-2024",
+		"title": "Data Engineer",
+		"description": "Joined Erie Insurance Group as a Data Engineer.",
+		"icon": "feather:briefcase",
+		"link": {
+			"text": "Visit Erie Insurance",
+			"url": "https://www.erieinsurance.com/"
+		}
+	},
+	{
+		"date": "08-17-2024",
+		"title": "Data Scientist",
+		"description": "Joined Agwise previously TransparencyWise company as Data Scientist.",
+		"icon": "feather:briefcase",
+		"link": {
+			"text": "Visit Agwise",
+			"url": "https://agwise.io/"
+		}
+	},
+	{
+		"date": "06-10-2024",
+		"title": "Data Science Analyst",
+		"description": "Joined mBolden Consulting company as Data Science Fellow.",
+		"icon": "feather:briefcase",
+		"link": {
+			"text": "Visit mBolden Consulting",
+			"url": "https://mbolden.co/"
+		}
+	},
+	{
 		"date": "05-06-2024",
-		"title": "Graduated University!",
-		"description": "Successfully completed my Master's Degree from ASU",
+		"title": "Graduated the MASTER's Degree with Distinction",
+		"description": "Successfully completed my Master's Degree from ASU.",
 		"icon": "feather:award"
 	},
 	{
@@ -17,7 +47,7 @@
 	},
 	{
 		"date": "08-11-2023",
-		"title": "TA @ASU",
+		"title": "TA at ASU",
 		"description": "Served as Graduate Teaching Assistant and Grader for Advanced Database Management Systems Course for 230+ students.",
 		"icon": "feather:briefcase",
 		"link": {
@@ -36,12 +66,6 @@
 		}
 	},
 	{
-		"date": "07-28-2022",
-		"title": "Graduated University!",
-		"description": "Successfully completed my Bachelor's Degree",
-		"icon": "feather:award"
-	},
-	{
 		"date": "08-11-2022",
 		"title": "Started University for Masters",
 		"description": "Began studying my Masters Degree in Information Technology at Arizona State University",
@@ -52,9 +76,15 @@
 		}
 	},
 	{
-		"date": "01-17-2021",
+		"date": "07-28-2022",
+		"title": "Graduated University!",
+		"description": "Successfully completed my Bachelor's Degree",
+		"icon": "feather:award"
+	},
+	{
+		"date": "03-17-2021",
 		"title": "First Developer Job!",
-		"description": "Began my journey as a software engineer working at Zemoso Technologies, Hyderabad",
+		"description": "Began my journey as an engineer working at Zemoso Technologies, Hyderabad",
 		"icon": "feather:briefcase",
 		"link": {
 			"text": "Visit Zemoso Technologies",
